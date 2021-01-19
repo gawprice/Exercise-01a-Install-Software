@@ -33,4 +33,4 @@ Gavin Price
 gawprice
 
 ## I have installed the software on my computer as a part of the exercise
-Yes, but Twine is unable to open. I'm running MacOS and it says that the version I downloaded is out of date. Even though I downloaded the latest version on the website. I'll look more into it. 
+Yes
