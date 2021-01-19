@@ -24,12 +24,13 @@ The final state of this file should be as follows (replacing my information with
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Gavin Price
 
 ## My gamedev.stackexchange.com user number is:
-5338
+146836
 
 ## My github username is:
-BL-MSCH-C220-F20
+gawprice
 
 ## I have installed the software on my computer as a part of the exercise
+Yes
